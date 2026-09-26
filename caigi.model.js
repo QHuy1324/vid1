@@ -1,0 +1,1 @@
+console.log('caigi.model.js loaded');
